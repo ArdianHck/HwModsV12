@@ -1,9 +1,9 @@
 const bugmenu =  ` 
-° Owner  : 6289653784091
+° Owner  : 6283183387983
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-😈 ${botname} 👿
+😈 ${YannzBot} 👿
 [ VIP 1 ]
 ┏━━⊱
 ┣❏🌷 628xxx
@@ -17,7 +17,7 @@ const bugmenu =  ` 
 ┣❏sendinvite 628xxx
 ┣❏sendbuglist 628xx
 ┗━━⊱
-[ contoh 🌷 6289653784091 ]
+[ contoh 🌷 6283183387983 ]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 [ VIP 2 ]
 ┏━━⊱
@@ -49,7 +49,7 @@ const bugmenu =  ` 
 ┣❏Jadivirtext9 [ Text nya ]
 ┣❏Jadivirtext10 [ Text nya ]
 ┗━━⊱
-[ Contoh Jadijago Lixxzy ]
+[ Contoh Jadijago Ardian ]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 [ VIRTEXT DELAY ]
 ┏━━⊱
