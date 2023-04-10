@@ -40,5 +40,5 @@ const allmenu =  ` 
 ┣❏meme
 ┣❏meme2
 ┣❏ss
-┗━━⊱[ ⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚]`
+┗━━⊱[ ⽂ - ARDIAN㕚]`
 exports.allmenu = allmenu
